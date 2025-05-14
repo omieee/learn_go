@@ -29,3 +29,4 @@ go.work.sum
 
 # each sub project builds
 01_hello_world/hello_world
+02_investment_calculator/investment_calculator
