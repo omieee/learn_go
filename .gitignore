@@ -27,4 +27,5 @@ go.work.sum
 # history folder
 .history/*
 
-**/*[^.]*
+# each sub project builds
+01_hello_world/hello_world
